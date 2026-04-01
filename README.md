@@ -1,18 +1,178 @@
-# 💫 About Me:
-Senior Java Developer with 7+ years building scalable microservices and cloud-native applications across fintech, e-commerce, and banking. Hackathon winner and published researcher with expertise in Spring Boot, AWS, Kafka, and blockchain technologies.
+<div align="center">
 
+# 👋 Hi, I'm Sai Kumar Ale
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-kumar-a-1bb808284) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saikumar.a5674@gmail.com) 
+### Senior Java Developer · Microservices Architect · Cloud-Native Enthusiast
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SaiAle&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SaiAle&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiAle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kumar-a-1bb808284/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiAle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://saikale.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikumar.a5674@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=SaiAle&color=7c3aed&style=flat-square)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+## 🚀 About Me
+
+```java
+public class SaiKumarAle extends SeniorDeveloper {
+
+    private String location    = "Dallas, TX 📍";
+    private String experience  = "7+ Years";
+    private String focus       = "Microservices | Cloud-Native | Event-Driven Architecture";
+    private boolean openToWork = true;
+
+    @Override
+    public String[] getSpecialties() {
+        return new String[]{
+            "Spring Boot 3.x · Spring Cloud",
+            "Apache Kafka · Event-Driven Systems",
+            "AWS EKS · Kubernetes · Terraform",
+            "99.95% Availability · 50K+ Concurrent Users"
+        };
+    }
+}
+```
+
+> Senior Java Developer with **7+ years** of experience building scalable enterprise applications across **fintech, e-commerce, and banking**. Expert in microservices, cloud-native architecture, and mentoring engineering teams.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+
+**Observability**
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+
+---
+
+## 💼 Experience Highlights
+
+| Company | Role | Period | Impact |
+|---|---|---|---|
+| **MRM Interpublic Group** | Senior Java Developer | Jul 2024 – Present | 12+ microservices · 200K+ users · 99.95% uptime |
+| **USAA** | Java Developer | Jun 2023 – Jun 2024 | 6 core services · 65% DB load reduction · 50ms API response |
+| **Windeed IT Solutions** | Junior Software Engineer | Jun 2018 – Aug 2021 | 50K+ events/sec pipeline · 40% infrastructure cost reduction |
+
+---
+
+## 🏆 Featured Projects
+
+### 🏛️ Tronify — NFT Certificate Generator
+> **🥇 1st Place — Tron Hackathon Season 3 · HackWeb3 @ Harvard University (2022)**
+
+Blockchain-based academic certification system built on the TRON network. Used TRC-721/ERC-721 smart contracts to mint tamper-proof certificates and IPFS/BTFS for decentralized storage — eliminating fake credentials.
+
+[![View Project](https://img.shields.io/badge/View_Project-7c3aed?style=for-the-badge)](https://forum.trondao.org/t/tronify-an-academic-blockchain-certification-system-with-nfts/14315)
+
+---
+
+### 🌐 Zmatter — Web Application
+> **Hack Harvard 2022**
+
+Full-stack web application designed and deployed within a 24-hour hackathon window. Demonstrated rapid prototyping and cross-functional collaboration under competitive conditions.
+
+[![View on Devpost](https://img.shields.io/badge/View_on_Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/software/zmatter)
+
+---
+
+### 📊 Fraud Detection Research Paper
+> **Published · 2018**
+
+Authored research proposing a statistical ranking framework for detecting fraudulent patterns in mobile app usage data using probability modeling.
+
+---
+
+## 📈 Key Metrics
+
+```
+⚡  10,000+ requests/second handled by API Gateway
+📦  12+ microservices architected at MRM
+👥  200,000+ active customers supported
+🚀  Deployment time: Hours → 15 minutes (Docker/EKS/Helm)
+🗄️  Query latency: 450ms → 80ms (Redis optimization)
+🧪  92% code coverage with JUnit 5 + Testcontainers
+📉  MTTR reduced by 45% (OpenTelemetry/Jaeger/ELK)
+🔥  50,000 concurrent users load tested (JMeter)
+```
+
+---
+
+## 🎓 Education
+
+🎓 **Northeastern University** — MS in Applied Machine Intelligence & Finance *(2021–2023)*
+
+🏫 **TKR Engineering College** — B.Tech in Information Technology *(2014–2018)*
+
+---
+
+## 🌟 Achievements
+
+- 🥇 **Winner** — Tron Hackathon Season 3 (Tronify)
+- 🏛️ **Participant** — Hack Harvard 2022 (Zmatter)
+- 📄 **Published Researcher** — Fraud Detection research paper (2018)
+- 🎭 **Event Organizer** — 'Shiznay' cultural event, TKR Engineering College
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Sai Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiAle&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=7c3aed&icon_color=ec4899&text_color=e2e8f0)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiAle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=7c3aed&text_color=e2e8f0)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+I'm open to **Senior Java Developer**, **Staff Engineer**, and **Lead Developer** roles.
+
+📍 Dallas, TX · 📞 (469) 364-8908 · ✉️ saikumar.a5674@gmail.com
+
+*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+
+</div>
